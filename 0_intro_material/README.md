@@ -16,14 +16,14 @@ This tutorial teaches you about colab and its main features. You will need to kn
 
 Open the file _Lab_01_Intro_Colab.ipynb_ to access the colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/m2lschool/tutorials2021/blob/master/introductory/Lab_01_Intro_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/m2lschool/tutorials2021/blob/master/0_intro_material/Lab_01_Intro_Colab.ipynb)
 
 ## Lab 02: JAX
 This colab is designed as an all-encompassing guide to get started with the fundamentals of using Tensorflow/JAX/Haiku in a Google Colab environment.
 
 Open the file _Lab_02_Intro_JAX.ipynb_ to access the colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/m2lschool/tutorials2021/blob/master/introductory/Lab_02_Intro_JAX.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/m2lschool/tutorials2021/blob/master/0_intro_material/Lab_02_Intro_JAX.ipynb)
 
 ## Lab 03: Numpy
 This colab introduces you to numpy, the python package we use for computing. Topics such as
@@ -39,7 +39,7 @@ By the end of this colab you will have written a function to generate datasets f
 
 Open the file _Lab_03_Intro_Numpy.ipynb_ to access the colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/m2lschool/tutorials2021/blob/master/introductory/Lab_03_Intro_Numpy.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/m2lschool/tutorials2021/blob/master/0_intro_material/Lab_03_Intro_Numpy.ipynb)
 
 
 ## Lab 04: Plotting with matplotlib, more numpy
@@ -52,5 +52,5 @@ Other than the plot above, we also see how to use matplotlib to
 
 Open the file _Lab_04_Intro_Plotting.ipynb_ to access the colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/m2lschool/tutorials2021/blob/master/introductory/Lab_04_Intro_Plotting.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/m2lschool/tutorials2021/blob/master/0_intro_material/Lab_04_Intro_Plotting.ipynb)
 
