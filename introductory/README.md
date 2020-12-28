@@ -9,11 +9,10 @@ Here you will get familiar with the environment and tools used in the rest of th
 **We strongly encourage you to cover the Colab and JAX tutorials.**
 
 After that, if you want to know a bit more about the basics, you can browse the other notebooks (Numpy and Plotting).
-These cover the same topics as the crash course, in more details.
 
 
 ## Lab 01: What is Google Colab?
-This colab teaches you about colab and its main features. You will need to know this for the rest of the labs as you will write all code in colab.
+This tutorial teaches you about colab and its main features. You will need to know this for the rest of the labs as you will write all code in colab.
 
 Open the file _Lab_01_Intro_Colab.ipynb_ to access the colab.
 
@@ -33,6 +32,7 @@ This colab introduces you to numpy, the python package we use for computing. Top
 * operations on arrays
 * indexing and selection on arrays
 * broadcasting
+
 are covered.
 
 By the end of this colab you will have written a function to generate datasets for learning the NXOR function.
