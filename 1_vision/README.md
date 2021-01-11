@@ -8,7 +8,7 @@ _Designed for education purposes. Please do not distribute without permission_.
 ## PART I
 ### Supervised classification, overfitting and inductive biases in convnets, and how to improve models through self-supervision
 
-* Exercise 1: Implement and train a Resnet-50 classifier using supervised learning; enable/disable batch norm updates to see the effect.
+* Exercise 1: Implement and train a ResNetSE-18 classifier using supervised learning; enable/disable batch norm updates to see the effect.
 * Exercise 2: Inductive biases in convnets; comparison with MLP.
 * Exercise 3: Overfitting and regularization using weight decay.
 * Exercise 4: Enable self-supervised learning using data augmentation.
