@@ -25,7 +25,7 @@ The section marked as \[EXERCISE\] contain cells with missing code that you shou
 
 + [EEML 2020](https://github.com/eemlcommunity/PracticalSessions2020/) Tensorflow Tutorials
 + [Haiku Example Documentation](https://github.com/deepmind/dm-haiku/blob/master/examples/rnn/train.py) on Recurrent Neural Networks
-+ [FastAI](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/2.%20Topic%20Modeling%20with%20NMF%20and%20SVD.ipynb) Tutorial
++ [FastAI](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/2.%20Topic%20Modeling%20with%20NMF%20and%20SVD.ipynb) Tutorial for Non-negative Matrix Factorization
 + [Jax Tutorials](https://github.com/google/jax/blob/master/docs/notebooks/neural_network_with_tfds_data.ipynb)
 
 Designed for education purposes. Please do not distribute without permission. Write at organizers@m2lschool.org if you have any question.
