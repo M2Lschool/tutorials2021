@@ -19,7 +19,8 @@ All sections can be executed independently after running the initial import and 
 
 The section marked as \[EXERCISE\] contain cells with missing code that you should complete.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/m2lschool/tutorials2021/blob/main/2_nlp/NLP_tutorial.ipynb)
++ Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/m2lschool/tutorials2021/blob/main/2_nlp/NLP_tutorial.ipynb)
++ Solved Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/m2lschool/tutorials2021/blob/main/2_nlp/NLP_tutorial_solutions.ipynb)
 
 **Credits**
 
