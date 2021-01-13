@@ -1,4 +1,4 @@
-# Notebook for the NLP tutorial at M2L 2020
+# Notebook for the NLP tutorial at M2L 2021
 
 **Authors**: **[Federico Bianchi](https://federicobianchi.io)**, **[Debora Nozza](https://dnozza.github.io/)** and **[Francesco Visin](https://scholar.google.it/citations?user=kaAnZw0AAAAJ)**
 
