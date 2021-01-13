@@ -1,4 +1,4 @@
-# [M2L2020](https://www.m2lschool.org/home): ConvNets and Computer Vision Tutorial
+# [M2L2021](https://www.m2lschool.org/home): ConvNets and Computer Vision Tutorial
 by Marco Buzzelli, Luigi Celona, Flavio Piccoli, and Simone Zini
 
 _Designed for education purposes. Please do not distribute without permission_.
